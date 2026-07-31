@@ -58,13 +58,13 @@ The model achieved an overall test accuracy of **69.68%**. Below is the detailed
 ```text
 Weather_Classification/
 │
-├── .gitignore                      # Excludes large dataset archives and temp files
-├── README.md                       # Project documentation
-├── Weather_Classification.ipynb    # Main end-to-end training & evaluation notebook
-├── sunny.jpg                       # Sample test image for inference
-├── test2.jpg                       # Sample test image for inference
+├── .gitignore                      
+├── README.md                       
+├── Weather_Classification.ipynb    
+├── sunny.jpg                       
+├── test2.jpg                       
 │
-└── dataset/                        # (Not tracked in Git - see Dataset Instructions below)
+└── dataset/                        
      ├── train/
      │    ├── cloudy/
      │    ├── rain/
